@@ -37,7 +37,7 @@ Sandwich-Resistant Automated Market Maker (Sr-AMM) with dynamic fees. This combi
 9. User Interface:
    * Provide clear, real-time information about current fees and how they're calculated.
    * Offer predictive tools to help users estimate fees for upcoming trades.
-11. Governance and Parameter Adjustment: ## I dont know why this is important but my co-founder claude thinks it is
+11. Governance and Parameter Adjustment: ## I don't know why this is important but my co-founder claude thinks it is
    * Allow for community governance to adjust key parameters like BaseFee or the functions f, g, and h.
    * Implement a timelock for parameter changes to ensure transparency.
 12. Safety Measures: # will see how Meteora does theirs but this what I thought of
